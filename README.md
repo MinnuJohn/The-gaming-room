@@ -9,12 +9,12 @@ Draw It or Lose It is a multi-platform game application originally designed for 
 
 ## Table of Contents
 
-- #features
-- #security
-- #multi-platform-compatibility
-- #evaluation-of-platforms
-- #multi-user-functionality
-- #storage-and-memory-management
+- features
+- security
+- multi-platform-compatibility
+- evaluation-of-platforms
+- multi-user-functionality
+- storage-and-memory-management
 
 ## Features
 
